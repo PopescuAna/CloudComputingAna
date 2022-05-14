@@ -20,9 +20,9 @@ Aplicatia isi propune sa prezinte vremea, in mod precis, a oricarei locatii pe c
 
 ## Interfata utilizator
 Introducere parametrii ( introducem locatia din tastatura pe pagina de intampinare)
-
+![S1](https://user-images.githubusercontent.com/105311980/168428590-6c8b34ec-bf94-43ec-a4c7-e95d4e422073.png)
 Obtinere rezultat
-
+![S2](https://user-images.githubusercontent.com/105311980/168428603-a2daa5e4-6598-4a66-a69d-20cfffa608ba.png)
 ## Tehnologii
 * Node.js
 * JavaScript
