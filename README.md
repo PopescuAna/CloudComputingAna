@@ -2,11 +2,11 @@
 # Prognoza meteo
 > Aplicația meteo detecteaza cu exactitate prognozele meteo in locatia cautata. Aceasta isi propune sa afiseze prognoza meteo pentru locatia cautata.
 **
-Popescu C. Ana-Maria
-Grupa 1118
- Link GitHub: `"https://github.com/PopescuAna/CloudComputingAna"`
- Link Publicare:`"https://main.d28r7hekpmdxxh.amplifyapp.com"`
- Link Prezentare Youtube:`"https://youtu.be/aPzDuVdtyCs"`
+### Popescu C. Ana-Maria
+### Grupa 1118
+### Link GitHub: `"https://github.com/PopescuAna/CloudComputingAna"`
+### Link Publicare:`"https://main.d28r7hekpmdxxh.amplifyapp.com"`
+### Link Prezentare Youtube:`"https://youtu.be/aPzDuVdtyCs"`
 
 ## Cuprins
 * [Descriere problema](#descriere-problema)
